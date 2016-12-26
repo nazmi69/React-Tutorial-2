@@ -1,0 +1,159 @@
+{
+    "main" : {
+        "fullname" : "Muhammad Nazmi Bin Mat Asri",
+        "dob" : "21st July 1995",
+        "currentStatus" : "Single",
+        "currentJob" : "Student",
+        "name" : "Nazmi Asri",
+        "skillDesc" : "I have been sharpen my skills to improve myself when get involved in the industry and still trying to improve myself. Here the current status of my skills:",
+        "occupation" : "Full Stack Software Developer, Full Stack Web Developer",
+        "description" : "Wanna become Jack of All Trades",
+        "image" : "https://scontent-kul1-1.xx.fbcdn.net/v/t1.0-9/15420909_1533517613343828_3838559845030696262_n.jpg?oh=010aa34153122df3a0c1eca166d725a3&oe=58DE5EBF",
+        "about" : "Hi, I'm Nazmi. I love Web Development, mostly using Laravel Framework and Mobile App Development using Ionic, React Native or Native Android or IOS. Most of the time you will see me with people or machines.",
+        "email" : "nazmiasri95@gmail.com",
+        "phone" : "(+60) 17 344 5919",
+        "profile" : "I am self-taught developer, and have been a part-time web and app developer for 4 years since 2013, and here is my profile details:",
+        "address" : {
+            "street" : "PT 867, Lorong Hj Jaafar, Kg. Demit",
+            "city" : "Kubang Kerian",
+            "state" : "Kelantan",
+            "zip" : "16150"
+        },
+        "website" : "https://nazmi69.github.io/",
+        "resumeDownload" : "#",
+        "social" : [
+            {
+                "name" : "facebook",
+                "url" : "https://www.facebook.com/nazmi69",
+                "className" : "fa fa-facebook"
+            },
+            {
+                "name" : "twitter",
+                "url" : "https://twitter.com/nazmiasri95",
+                "className" : "fa fa-twitter"
+            },
+            {
+                "name" : "github",
+                "url" : "https://github.com/nazmi69",
+                "className" : "fa fa-github"
+            }
+        ],
+        "resume" : {
+            "education" : [
+                {
+                    "school" : "Universiti Teknologi PETRONAS",
+                    "degree" : "Bachelor Degree of Information and Communication Technology",
+                    "graduated" : "2017",
+                    "description" : "University"
+                },
+                {
+                    "school" : "Universiti Teknologi PETRONAS",
+                    "degree" : "Foundation of Technology",
+                    "graduated" : "2013",
+                    "description" : "Pre-University"
+                },
+                {
+                    "school" : "SMT Sepang",
+                    "degree" : "Electrical and Electronic Engineering",
+                    "graduated" : "2012",
+                    "description" : "High School"
+                }
+            ],
+            "skills" : [
+                {
+                    "name" : "HTML, CSS, JS, PHP, SQL",
+                    "level" : 85,
+                    "className" : "progress percent85"
+                },
+                {
+                    "name" : "Laravel",
+                    "level" : 70,
+                    "className" : "progress percent70"
+                },
+                {
+                    "name" : "Native Android",
+                    "level" : 60,
+                    "className" : "progress percent60"
+                },
+                {
+                    "name" : "Ionic App Development",
+                    "level" : 80,
+                    "className" : "progress percent80"
+                },
+                {
+                    "name" : "ReactJS",
+                    "level" : 60,
+                    "className" : "progress percent60"
+                },
+                {
+                    "name" : "AngularJS",
+                    "level" : 80,
+                    "className" : "progress percent80"
+                },
+                {
+                    "name" : "Angular 2",
+                    "level" : 70,
+                    "className" : "progress percent70"
+                }
+            ]
+        }
+    },
+    "portfolio" : {
+        "projects" : [
+            {
+                "title" : "",
+                "description" : "",
+                "category" : "",
+                "tags" : "",
+                "image" : "",
+                "url" : "",
+                "modal" : ""
+            },
+            {
+                "title" : "",
+                "description" : "",
+                "category" : "",
+                "tags" : "",
+                "image" : "",
+                "url" : "",
+                "modal" : ""
+            },
+            {
+                "title" : "",
+                "description" : "",
+                "category" : "",
+                "tags" : "",
+                "image" : "",
+                "url" : "",
+                "modal" : ""
+            },
+            {
+                "title" : "",
+                "description" : "",
+                "category" : "",
+                "tags" : "",
+                "image" : "",
+                "url" : "",
+                "modal" : ""
+            },
+            {
+                "title" : "",
+                "description" : "",
+                "category" : "",
+                "tags" : "",
+                "image" : "",
+                "url" : "",
+                "modal" : ""
+            },
+            {
+                "title" : "",
+                "description" : "",
+                "category" : "",
+                "tags" : "",
+                "image" : "",
+                "url" : "",
+                "modal" : ""
+            }
+        ]
+    }
+}
